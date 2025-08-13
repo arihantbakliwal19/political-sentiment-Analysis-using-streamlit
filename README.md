@@ -6,7 +6,8 @@ It uses publicly collected sentiment data (June 2024 – June 2025) to visualize
 Built entirely in Streamlit for a clean, interactive user experience.
 
 
-#🚀 Features
+## 🚀 Features
+
 Party-wise Sentiment Donut Charts – Visual breakdown of sentiment distribution for each political party.
 
 Sentiment Trends Over Time – Interactive time-series showing sentiment shifts month-to-month.
@@ -39,7 +40,8 @@ political-sentiment-dashboard-using-streamlit/
 
 
 
-#🛠️ Technologies Used
+## 🛠️ Technologies Used
+
 Python
 
 Streamlit – for dashboard and UI
@@ -54,7 +56,7 @@ OpenPyXL – to load Excel-based datasets
 
 
 
-#💻 How It Works
+## 💻 How It Works
 Data Loading – Sentiment data is loaded from an Excel file and preprocessed (timestamp conversion, sentiment scoring).
 
 Visualization – Multiple interactive charts and tables let users filter by party, city, or sentiment type.
@@ -66,7 +68,7 @@ ML Model Training – A Random Forest classifier predicts sentiment labels based
 Interactive Prediction – Users can input party, city, and month to get a sentiment prediction in real time.
 
 
-#📄 Example Scenario
+## 📄 Example Scenario
 Use Case:
 You want to see which cities have the highest positive sentiment for BJP in early 2025, or compare Congress and AAP’s sentiment trends in Delhi.
 You can filter directly in the sidebar and instantly view charts, tables, and net sentiment values.
