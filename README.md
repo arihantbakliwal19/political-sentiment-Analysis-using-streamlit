@@ -1,4 +1,6 @@
-🗳️ Political Sentiment Dashboard using Streamlit
+# 🗳️ Political Sentiment Dashboard using Streamlit
+
+
 This project is an interactive data analytics and machine learning dashboard that tracks and analyzes political sentiment across multiple parties and cities in India.
 It uses publicly collected sentiment data (June 2024 – June 2025) to visualize trends, compare party performance, and even predict sentiment labels using a trained ML model.
 Built entirely in Streamlit for a clean, interactive user experience.
