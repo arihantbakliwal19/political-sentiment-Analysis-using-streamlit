@@ -1,4 +1,4 @@
-# 🗳️ Political Sentiment Dashboard using Streamlit
+# 🗳️ Political Sentiment Analysis using Streamlit
 
 
 This project is an interactive data analytics and machine learning dashboard that tracks and analyzes political sentiment across multiple parties and cities in India.
